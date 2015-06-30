@@ -9,6 +9,10 @@ $orange_shirt: #da581a;
 $logo_red_1: #ee2424;
 $red_in_shirt: #cc2c2f;
 
+.bb {
+  border: 2px solid #000;
+  border: 3px solid #cc2a41;
+}
 $page_background: $white_shirt;
 $page_link_color: $blue_jeans;
 $page_link_color: $plaid_shirt_2;
@@ -274,14 +278,9 @@ a {
 
 section {
   &.location {
-    #map-canvas {
-      width: 70%;
-      float: right;
-      padding-left: 10px;
-    }
     #marker-list {
-      padding-right: 10px;
-      width: 25%;
+      padding-right: 1px;
+      width: 50%;
       float: left;
       li {
         font-weight: bold;
