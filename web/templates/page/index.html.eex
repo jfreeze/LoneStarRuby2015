@@ -22,7 +22,7 @@
     </span></h1>
   <h2 class="type-weight-normal">August 15th, Austin, TX</h2>
 </header>
-<p class="type-secondary s4">LoneStarRuby is a 1-day conference for highly motivated programmers.</p>
+<p class="type-secondary s4">LoneStarRuby is a one-day Ruby & Rails conference that will truly inspired you.</p>
 <a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a>
 <!-- <a class="ui-btn-round" href="http://formstack/lonestarruby_cfp_2015">Register Now</a> -->
 </div>
@@ -277,6 +277,7 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
   </div>
 
 </section>
+
 <footer class="g-footer">
 <div class="g-footer-top"><strong>&copy; LoneStarRuby 2015</strong></div>
 <div class="g-footer-bottom">
@@ -296,4 +297,3 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
   <script src="js/scroll.js"></script>
   <script src="js/modal.js"></script>
 </body>
-</html>

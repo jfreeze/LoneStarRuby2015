@@ -492,6 +492,8 @@ input:focus, select:focus, textarea:focus, button:focus {
 .g-footer {
   font-size: 1.5rem;
   color: $blue_jeans;
+  max-width: 66em;
+  margin: 0 auto;
   .info {
     float: right;
     vertical-align: middle;
