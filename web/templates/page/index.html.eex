@@ -252,22 +252,28 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
 <section class="updates mod-section js-home-section" id="updates">
   <h1>Updates</h1>
 
-  <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-      /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-  </style>
-  <div id="mc_embed_signup">
-    <form action="//lonestarruby.us8.list-manage.com/subscribe/post?u=5c44f4ebacf7d77245471f86d&amp;id=2fe24b09e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-        <label for="mce-EMAIL">Get Updates to LoneStarRuby 2015</label>
-        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;"><input type="text" name="b_5c44f4ebacf7d77245471f86d_2fe24b09e6" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Get Updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-      </div>
-    </form>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+     #mc_embed_signup input.button { background-color: #ee2424; }
+</style>
+<div id="mc_embed_signup">
+<form action="//lonestarruby.us8.list-manage.com/subscribe/post?u=5c44f4ebacf7d77245471f86d&amp;id=278bbcc3f1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  <label for="mce-EMAIL">Get Updates to LoneStarRuby 2015</label>
+  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5c44f4ebacf7d77245471f86d_278bbcc3f1" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Send Me Updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
   </div>
 
 </section>
