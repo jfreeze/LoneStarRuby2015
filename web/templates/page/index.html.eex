@@ -285,9 +285,9 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
 
 </div>
 <div class="clearfix"></div>
-  <script src="app.js"></script>
-  <script src="truncate.js"></script>
-  <script src="scroll.js"></script>
-  <script src="modal.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/truncate.js"></script>
+  <script src="js/scroll.js"></script>
+  <script src="js/modal.js"></script>
 </body>
 </html>
