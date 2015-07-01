@@ -9,9 +9,21 @@ $orange_shirt: #da581a;
 $logo_red_1: #ee2424;
 $red_in_shirt: #cc2c2f;
 
+p.wow {
+  color: $red_in_shirt;
+  font-weight: bold;
+}
 .bb {
   border: 2px solid #000;
   border: 3px solid #cc2a41;
+}
+.price th {
+  text-align: center;
+}
+.price td {
+  width: auto;
+  padding: 0 10px;
+  text-align: center;
 }
 $page_background: $white_shirt;
 $page_link_color: $blue_jeans;

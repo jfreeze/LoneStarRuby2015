@@ -53,11 +53,15 @@
 </div> 
 <div class="pg-home-news-right">
 <!-- <h3><a href="#">Registration</a></h3>  -->
-<h3>Registration</h3>
-<div class="type-secondary type-truncate">
-  <p>Registration open soon.
-  </p>
-</div>
+  <h3>REGISTRATION</h3>
+    <p>REGISTRATION IS NOW OPEN!</p>
+    <p class="wow">Get access to Early Bird pricing!</p>
+    <table class="price">
+      <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
+      <tr><td>$150</td><td>Early Bird</td><td>July 10</td></tr>
+      <tr><td>$199</td><td>Standard</td><td>August 9</td></tr>
+      <tr><td>$249</td><td>Late</td></tr>
+    </table>
 </div>
 </section>
 
