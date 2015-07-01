@@ -54,8 +54,8 @@
 <div class="pg-home-news-right">
 <!-- <h3><a href="#">Registration</a></h3>  -->
   <h3>REGISTRATION</h3>
-    <p>REGISTRATION IS NOW OPEN!</p>
-    <p class="wow">Get access to Early Bird pricing!</p>
+    <p class="wow">REGISTRATION IS NOW OPEN!</p>
+    <h3><a href="https://relyworks.formstack.com/forms/lonestarruby_payment">Get access to Early Bird pricing!</a></h3>
     <table class="price">
       <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
       <tr><td>$150</td><td>Early Bird</td><td>July 10</td></tr>
