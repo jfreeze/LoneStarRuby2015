@@ -40,6 +40,7 @@
 <li><a class="js-nav-link" href="#location">location</a></li>
 <li><a class="js-nav-link" href="#sponsors">sponsors</a></li>
 <li><a class="js-nav-link" href="#updates">updates</a></li>
+<li><a class="js-nav-link" href="#code-of-conduct">code of conduct</a></li>
 </ul>
 </nav>
 </div>
@@ -236,8 +237,24 @@
   </div>
 
 </section>
-</div>
 
+<section class="mod-section js-home-section" id="code-of-conduct">
+<div>
+<h1>Code of Conduct</h1>
+
+<p class="text">
+All attendees, speakers, sponsors and volunteers at our conference are required to conform with the following code of conduct. Organizers will adhere to this code throughout the event. We are expecting cooperation from all participants to help ensure an enjoyable and safe environment for everyone.
+</p>
+
+<p class="text">
+Our conference is dedicated to providing a family friendly and harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion. Conference participants are expected to observe the policies herein, refrain from using profanity, and act with decorum at all times. Sexual language and imagery is inappropriate for our conference venue, including attendees’ attire, talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+<p class="text">
+<a href="/code-of-conduct">Read more and find how to contact organizers.</a>
+</p>
+</div>
+</section>
+
+</div>
 <div class="color-bg-white on-light">
 <div class="container">
 
@@ -287,7 +304,7 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
 <div class="g-footer-bottom">
   <p>
   LoneStarRuby is an event for professionals as well as all family members.
-  Our Code of Conduct is simple: Be respectful and be nice.
+  <a href="#code-of-conduct">Code of Conduct</a>
   Questions? Email us at <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com</a> 
   or tweet us at <a href="//twitter.com/lonestarruby">@lonestarruby</a>.
   </p>
