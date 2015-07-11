@@ -23,7 +23,7 @@
   <h2 class="type-weight-normal">August 15th, Austin, TX</h2>
 </header>
 <p class="type-secondary s4">LoneStarRuby is a one-day Ruby & Rails conference that will truly inspire you.</p>
-<a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a>
+<!-- <a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a> -->
 &nbsp;
 <a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_payment">Register Now</a>
 </div>
@@ -59,7 +59,7 @@
     <h3><a href="https://relyworks.formstack.com/forms/lonestarruby_payment">Get access to Early Bird pricing!</a></h3>
     <table class="price">
       <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
-      <tr><td>$150</td><td>Early Bird</td><td>July 10</td></tr>
+      <tr><td>$150</td><td>Early Bird</td><td><strike>July 10</strike> July 14</td></tr>
       <tr><td>$199</td><td>Standard</td><td>August 9</td></tr>
       <tr><td>$249</td><td>Late</td></tr>
     </table>
@@ -114,8 +114,8 @@
 
 <section class="schedule mod-section js-home-section" id="schedule">
 <h1>Speakers</h1>
-<p>Talks submission deadline is July 10. Speakers will be posted shortly after the deadline.</p>
-<h3><a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a></h3>
+<p>Talks submission is now closed. Speakers will be posted this week.</p>
+<!-- <h3><a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a></h3> -->
 </section>
 
 <section class="schedule mod-section js-home-section" id="schedule">
@@ -304,7 +304,7 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
 <div class="g-footer-bottom">
   <p>
   LoneStarRuby is an event for professionals as well as all family members.
-  <a href="#code-of-conduct">Code of Conduct</a>
+  <a href="/code-of-conduct">Code of Conduct</a>
   Questions? Email us at <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com</a> 
   or tweet us at <a href="//twitter.com/lonestarruby">@lonestarruby</a>.
   </p>
