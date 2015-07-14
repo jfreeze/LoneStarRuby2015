@@ -92,7 +92,9 @@
           <i>Knoxville, Tennessee</i>
           <a class="pg-home-speaker-link" href="//twitter.com/avdi">@avdi</a>
           <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
-          80% angel, 10% daemon, the rest is hard to explain.
+          Avdi Grimm has been hacking Ruby code for over 10 years, and is still loving it. 
+          He is chief aeronaut at ShipRise, head chef at RubyTapas.com, and a Ruby Rogue. 
+          He lives in Eastern Tennessee with his wife and a steadily incrementing number of children.
           </p>
         </div>
       </li>
@@ -196,7 +198,7 @@
       <li class="pg-home-schedule-item">
         <div class="pg-home-schedule-time">5:00PM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Avdi Grimm</span></h3>
+          <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Avdi Grimm</span> <span class="type-title">(The Soul of Software)</span></h3>
         </div>
       </li>
 

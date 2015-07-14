@@ -208,6 +208,12 @@ body {
   color: #222222;
 }
 
+.type-title {
+  color: $red-in-shirt;
+  font-style: italic;
+  font-size: 2.0rem;
+}
+
 body, input {
   font-size: 1.8rem;
   font-family: "museo-sans", "helvetica neue", "helvetica", sans-serif;
