@@ -8,6 +8,17 @@ $blue_jeans: #524c66;
 $orange_shirt: #da581a;
 $logo_red_1: #ee2424;
 $red_in_shirt: #cc2c2f;
+$page_background: $white_shirt;
+$page_link_color: $blue_jeans;
+$page_link_color: $plaid_shirt_2;
+
+$accent_color: $logo_red_1;
+
+$header_color: $logo_red_1;
+$hdr_nav_link_color: $logo_red_1;
+
+$nav_link_color: $table_cloth;
+$nav_background: $plaid_shirt;
 
 p.wow {
   color: $red_in_shirt;
@@ -25,17 +36,14 @@ p.wow {
   padding: 0 10px;
   text-align: center;
 }
-$page_background: $white_shirt;
-$page_link_color: $blue_jeans;
-$page_link_color: $plaid_shirt_2;
 
-$accent_color: $logo_red_1;
-
-$header_color: $logo_red_1;
-$hdr_nav_link_color: $logo_red_1;
-
-$nav_link_color: $table_cloth;
-$nav_background: $plaid_shirt;
+.video {
+  width: 100%;
+  video {
+    width: 100%;
+    //margin: 0 Auto;
+  }
+}
 
 /* Submit Button */
 $ui_button_color: $red_in_shirt;

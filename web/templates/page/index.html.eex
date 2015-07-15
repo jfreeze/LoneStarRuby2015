@@ -47,6 +47,15 @@
 </div>
 <div class="container">
 
+<section class="mod-section s4-pad-top pos-clearfix js-home-section" id="promo">
+<div class="video">
+  <video width="640" height="360" controls>
+    <source src="images/LoneStarRuby-promo.mp4" type="video/mp4">
+    <a href="images/LoneStarRuby-promo.mp4">LoneStarRuby Video</a>
+  </video>
+</div>
+</section>
+
 <section class="mod-section news s4-pad-top pos-clearfix js-home-section" id="news">
 <div class="pg-home-news-left">
 <h1 class="s0">News</h1>
