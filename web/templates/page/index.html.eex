@@ -96,6 +96,18 @@
 
       <li class="l-tile-3">
         <div class="l-tile-content">
+          <img alt="Dave Thomas" class="pg-home-speaker-img" src="images/Dave_Thomas.jpg">
+          <h3>Dave Thomas</h3>
+          <i>Dallas, Texas</i>
+          <a class="pg-home-speaker-link" href="//twitter.com/pragdave">@pragdave</a>
+          <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
+          Programmer turned publisher (but mostly programmer)
+          </p>
+        </div>
+      </li>
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
           <img alt="Avdi Grimm" class="pg-home-speaker-img" src="images/avdi_grimm.jpg">
           <h3>Avdi Grimm</h3>
           <i>Knoxville, Tennessee</i>
@@ -108,17 +120,6 @@
         </div>
       </li>
 
-      <li class="l-tile-3">
-        <div class="l-tile-content">
-          <img alt="Dave Thomas" class="pg-home-speaker-img" src="images/Dave_Thomas.jpg">
-          <h3>Dave Thomas</h3>
-          <i>Dallas, Texas</i>
-          <a class="pg-home-speaker-link" href="//twitter.com/pragdave">@pragdave</a>
-          <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
-          Programmer turned publisher (but mostly programmer)
-          </p>
-        </div>
-      </li>
     </ul>
   </div>
 </section>
