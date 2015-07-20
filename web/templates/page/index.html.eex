@@ -49,11 +49,12 @@
 
 <section class="mod-section s4-pad-top pos-clearfix js-home-section" id="promo">
 <div class="video">
-  <video width="640" height="360" controls>
+  <video preload="yes" controls="true" width="100%" height="100%" controls>
     <source src="images/LoneStarRuby-promo.mp4" type="video/mp4">
     <a href="images/LoneStarRuby-promo.mp4">LoneStarRuby Video</a>
   </video>
 </div>
+
 </section>
 
 <section class="mod-section news s4-pad-top pos-clearfix js-home-section" id="news">
@@ -64,11 +65,10 @@
 <div class="pg-home-news-right">
 <!-- <h3><a href="#">Registration</a></h3>  -->
   <h3>REGISTRATION</h3>
-    <p class="wow">REGISTRATION IS NOW OPEN!</p>
-    <h3><a href="https://relyworks.formstack.com/forms/lonestarruby_payment">Get access to Early Bird pricing!</a></h3>
+    <a href="https://relyworks.formstack.com/forms/lonestarruby_payment""><p class="wow">REGISTRATION IS NOW OPEN!</p></a>
     <table class="price">
       <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
-      <tr><td>$150</td><td>Early Bird</td><td><strike>July 10</strike> July 14</td></tr>
+      <tr class="gone"><td>$150</td><td>Early Bird</td><td><strike>July 10</strike> July 14</td></tr>
       <tr><td>$199</td><td>Standard</td><td>August 9</td></tr>
       <tr><td>$249</td><td>Late</td></tr>
     </table>
@@ -400,7 +400,18 @@
           <h3 class="no-mar-top">Brandon Hays 
             <span class="type-title">Surviving the Framework Hype Cycle</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              Baskin Robbins wishes it had as many flavors as there are JS frameworks, 
+              build tools, and cool new "low-level" languages. You just want to solve 
+              a problem, not have a 500-framework bake-off! And how will you know 
+              whether you picked the right one? Don't flip that table, because we'll 
+              use the "hype cycle" and the history of Ruby and Rails as a guide to help 
+              you understand which front-end and back-end technologies are a fit for 
+              your needs now and in the future.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
 
@@ -416,10 +427,35 @@
         <a name="lev"></a>
         <div class="pg-home-schedule-time">11:30AM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top">Lev  Kravinsky
+          <h3 class="no-mar-top">Lev Kravinsky
             <span class="type-title">Fiber, Fibonacci, and Fibs</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              One of the most fascinating things about this topic is the 
+              fact that it is almost never discussed in the community 
+              despite it being a primitive that is deeply involved in 
+              Enumerators! I became fascinated with this topic when I 
+              wanted to performance optimize Ruby for standard technical 
+              interview questions, like FizzBuzz and Fibonacci. 
+              I discovered that using Enumerator.new and then defining 
+              a basic Fibonacci was far quicker than defining a Fibonacci 
+              method with the same logic, and soon found that this was 
+              due in part to the concurrency built into Enumerators 
+              stemming from Fiber. The fact that this primitive is so 
+              incredibly engrained in Enumerators (which Rubyists use 
+              in virtually every project!) and yet has so little 
+              discussion surrounding it makes it the perfect topic 
+              to teach developers both old and young something 
+              interesting that they weren't aware of before. 
+              Understanding Fibers will help developers better 
+              understand Ruby better as a language, but also is 
+              another tool to add to their repertoire that is 
+              simultaneously esoteric and valuable, an exceedingly 
+              rare combination.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
       <li class="pg-home-schedule-item">
@@ -429,7 +465,16 @@
           <h3 class="no-mar-top">Tom  Brown
             <span class="type-title">Authentication for Websockets</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              Collaboration and gaming web software using websockets need 
+              a way to mitigate impersonation attacks. Using the togetherjs 
+              protocol as an example, we will see how a participant can 
+              tamper with messages to impersonate other collaborators and 
+              how to prevent these attacks.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
       <li class="pg-home-schedule-item">
@@ -439,7 +484,14 @@
           <h3 class="no-mar-top">Kyle Rames
             <span class="type-title">My Year In Open Source : 10 Lessons in 10 Minutes</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              I was fortunate to spend a year and half working exclusively on open source software. 
+              Along the way, I learned that open source development requires a slightly different 
+              approach. In this talk, I will share my story along with some of the lessons I learned.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
 
@@ -458,7 +510,18 @@
           <h3 class="no-mar-top">Randy  Coulman 
             <span class="type-title">Shall We Play A Game?</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              Teaching computers to play games has been a pursuit and passion for many programmers.
+              Game playing has led to many advances in computing over the years, and the best 
+              computerized game players have gained a lot of attention from the general public (think Deep Blue and Watson).
+              <br>
+              Using the Ricochet Robots board game as an example, let's talk about what's involved in teaching 
+              a computer to play games.  Along the way, we'll touch on graph search techniques, data representation, 
+              algorithms, heuristics, pruning, and optimization.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
 
@@ -477,7 +540,21 @@
           <h3 class="no-mar-top">Trevor Rosen and egypt
           <span class="type-title">Building a binary protocol client in Ruby: A magical journey!</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              Sometimes we can forget that there's more under the (networking) sun than HTTP.
+              Rapid7's Metasploit team has been working for awhile on a new, pure-Ruby library 
+              for Microsoft's SMB protocol. Doing work like this means analyzing wire traffic, 
+              working with binary structs, and wrapping everything up into a nice, clean set of abstractions.
+              <br>
+              We'd like to share the developer workflows and lessons learned. If you've ever 
+              wondered how to set about building a library for a binary protocol, 
+              how to reverse-engineer the byte-by-byte traffic on a network, 
+              or thought it would be cool to understand Ruby's networking capabilities 
+              from the ground up, this talk is for you!
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
 
@@ -496,7 +573,12 @@
           <h3 class="no-mar-top">Chris McCord
           <span class="type-title">Phoenix: What You Should Know</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              TBA
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
 
@@ -512,10 +594,20 @@
         <a name="barrett"></a>
         <div class="pg-home-schedule-time">4:05PM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top">Barrett  Clark
+          <h3 class="no-mar-top">Barrett Clark
           <span class="type-title">Brisket Programming</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              A juicy, melt in your mouth brisket. A beautifully orchestrated application. 
+              These don't just happen. They take experience, which is evolutionary. 
+              I have a technique for smoking a brisket, born out of iteration and experimentation, 
+              that makes a pretty good brisket. Software development and cooking have a lot in common. 
+              I'll tell you about my brisket, but really I'll talk about learning to process information 
+              quicker and more efficiently. This not only gives answers a place to land, but tastes good too.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
       <li class="pg-home-schedule-item">
@@ -525,7 +617,15 @@
           <h3 class="no-mar-top">Paul Stefan Ort 
           <span class="type-title">Crashing on Autopilot</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              Software connects people and ideas, but what if your ideas are flawed? 
+              Cognitive biases derail software development efforts. This talk can 
+              help you recognize and overcome them. Gain the benefits of patterns 
+              and examples through thoughtful mastery, without being bound by them.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
       <li class="pg-home-schedule-item">
@@ -535,7 +635,19 @@
           <h3 class="no-mar-top">Abraham Sangha
           <span class="type-title">TDD for Your Soul: Virtue and Web Development</span>
           </h3>
-          <p></p>
+          <div class="description">
+            <p>
+              Software engineering pushes us to our limits, not only of cognition, 
+              but, perhaps surprisingly, of character. Using the cardinal virtues as a 
+              framework, we can see that developers need courage to continue learning, 
+              temperance to prioritize goals, a sense of justice by which to discern 
+              obligations, and wisdom to optimize our path. By being honest about where 
+              we lack virtue, and implementing steps to develop character, we can perform 
+              test-driven development, or TDD, on ourselves. 
+              This process can help us grow not only as engineers, but as human beings.
+            </p>
+            <button class="close-btn ui-btn-small">Close</button>
+          </div>
         </div>
       </li>
 
@@ -551,7 +663,7 @@
       <li class="pg-home-schedule-item">
         <div class="pg-home-schedule-time">5:00PM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Avdi Grimm</span> <span class="type-title">(The Soul of Software)</span></h3>
+          <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Avdi Grimm</span> <span class="type-title-nodesc">The Soul of Software</span></h3>
         </div>
       </li>
 
@@ -672,9 +784,6 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
 </div>
 <div class="clearfix"></div>
   <script src="js/app.js"></script>
-  <script src="js/truncate.js"></script>
-  <script src="js/scroll.js"></script>
-  <script src="js/modal.js"></script>
   <script>
     function flipclick(event) {
       var flip_container = event.target.parentElement.parentElement.parentElement;
@@ -683,23 +792,14 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
       // document.querySelector(".flip-container").classList.toggle("flip")
     };
   
-    function max(x,y) {
-      if (x > y) {
-        return x;
-      } else {
-        return y;
-      }
+    function click_description(event) {
+      var par = event.target.parentElement.nextElementSibling;
+      par.style.display = "inline-block";
+      //par.nextElementSibling.style.display = "inline-block";
     };
-
-    function setHeight(el) {
-      var front = el.querySelector(".back");
-      var back =  el.querySelector(".front");
-      var fh = front.clientHeight;
-      var bh = back.clientHeight;
-      console.log(fh);
-      var h = max(fh, bh);
-      h = h + "px"
-      el.style.height = h;
+    function click_close(event) {
+      var par = event.target.parentElement;
+      par.style.display = "none"; // hide description
     };
 
     window.onload = function() {
@@ -707,6 +807,16 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
       for (var i=0; i < containers.length; i++) {
         containers[i].addEventListener("click", flipclick, false);
         setHeight(containers[i]);
+      }
+
+      var speakers = document.querySelectorAll("span.type-title");
+      for (i=0; i < speakers.length; i++) {
+        speakers[i].addEventListener("click", click_description, false);
+      }
+
+      var closes = document.querySelectorAll("button.close-btn");
+      for (i=0; i < closes.length; i++) {
+        closes[i].addEventListener("click", click_close, false);
       }
 
     };
