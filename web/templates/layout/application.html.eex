@@ -8,15 +8,12 @@
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="favicon.ico" rel="shortcut icon">
   <link media="screen" rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
-  <script src="//use.typekit.net/pqv1nxy.js"> </script>
-  <script>
-    try{Typekit.load();}catch(e){}
-  </script>
+  <!-- <link href='http://fonts.googleapis.com/css?family=Biryani:400,600|Antic' rel='stylesheet' type='text/css'> -->
+  <link href='http://fonts.googleapis.com/css?family=Antic' rel='stylesheet' type='text/css'>
 </head>
 
   <%= @inner %>
 
   </div> <!-- /container -->
   <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
-  <script>require("web/static/js/app")</script>
 </html>

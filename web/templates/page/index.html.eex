@@ -76,7 +76,7 @@
 </section>
 
 <a name="speakers" id="speakers"></a>
-<section class="past-speakers mod-section js-home-section" id="speakers">
+<section class="past-speakers mod-section js-home-section" id="keynotes">
   <h1>Keynote Speakers</h1>
   <div>
     <ul class="l-tile-wrap">
@@ -123,11 +123,165 @@
   </div>
 </section>
 
-<section class="schedule mod-section js-home-section" id="schedule">
+<section class="schedule mod-section js-home-section" id="speakers">
 <h1>Speakers</h1>
-<p>Talk submission is now closed. Speakers will be posted this week.</p>
 <!-- <h3><a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a></h3> -->
+
+  <div>
+    <ul class="l-tile-wrap">
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Trevor Rosen and egypt" class="pg-home-speaker-img" src="images/speakers/trevor.jpg">
+          <h3>Trevor Rosen and egypt</h3>
+          <i>github: <a href="http://github.com/trevrosen">trevrosen</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/trevrosen">@trevrosen</a>
+          <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
+          Trevor Rosen is the leads the Metasploit Architecture Team at Rapid7, 
+          where he works on making Ruby (and other languages) do all sorts of fun things 
+          in the service of improving information security.<br>
+          </p>
+        </div>
+      </li>
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="name" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
+          <h3>egypt</h3>
+          <!-- <i>github: <a href="http://github.com/gitname">gitname</a></i> -->
+          <!-- <a class="pg-home-speaker-link" href="//twitter.com/twame">@twame</a> -->
+          <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="200">
+          James "egypt" Lee is a prolific Metasploit developer, pentester, and trainer of hackers. 
+          He serves as the Metasploit Community Manager at Rapid7, where he herds cats, leads research efforts, 
+          commits lots of code, and convinces others to do the same.
+          </p>
+        </div>
+      </li>
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Brandon Hays" class="pg-home-speaker-img" src="images/speakers/brandon.jpg">
+          <h3>Brandon Hays</h3>
+          <i>github: <a href="http://github.com/tehviking">tehviking</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/tehviking">@tehviking</a>
+
+          <div class="vertical flip-container">
+            <div class="flipper">
+              <div class="front">
+                <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
+                  Brandon used to get lunch for people for a living, but it's now just a hobby. 
+                  Hailing from Austin, TX, he helps run The Frontside, an Ember.js and Rails consultancy. 
+                  Brandon's lifelong mission to to hug every developer.
+                </p>
+              </div>
+              <div class="back"> <!-- description -->
+                <h4>Surviving the Framework Hype Cycle</h4>
+                <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
+                  Devs stymied by paradox of choice in JS frameworks, etc.  
+                  Baskin Robbins wishes it had as many flavors as there are JS frameworks, build tools, 
+                  and cool new "low-level" languages. You just want to solve a problem, 
+                  not have a 500-framework bake-off! 
+                  And how will you know whether you picked the right one? Don't flip that table, 
+                  because we'll use the "hype cycle" and the history of Ruby and Rails as a 
+                  guide to help you understand which front-end and back-end technologies 
+                  are a fit for your needs now and in the future.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </li>
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="<name>" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
+          <h3><name></h3>
+          <i>github: <a href="http://github.com/<github>">githubname</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+
+          <div class="vertical flip-container">
+            &nbsp;
+            <div class="flipper">
+              <div class="front">
+                <p class="type-secondary type-small pg-home-speaker-bio">
+                  bio
+                </p>
+              </div>
+              <div class="back"> <!-- description -->
+                <h4>talk title</h4>
+                <p class="type-secondary type-small pg-home-speaker-bio ">
+                  description
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="<name>" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
+          <h3><name></h3>
+          <i>github: <a href="http://github.com/<github>">githubname</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+
+          <div class="vertical flip-container">
+            <div class="flipper">
+              <div class="front">
+                <p class="type-secondary type-small pg-home-speaker-bio">
+                  bio
+                </p>
+              </div>
+              <div class="back"> <!-- description -->
+                <h4>talk title</h4>
+                <p class="type-secondary type-small pg-home-speaker-bio ">
+                  description
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="<name>" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
+          <h3><name></h3>
+          <i>github: <a href="http://github.com/<github>">githubname</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+
+          <div class="vertical flip-container">
+            <div class="flipper">
+              <div class="front">
+                <p class="type-secondary type-small pg-home-speaker-bio">
+                  bio
+                </p>
+              </div>
+              <div class="back"> <!-- description -->
+                <h4>talk title</h4>
+                <p class="type-secondary type-small pg-home-speaker-bio ">
+                  description
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+
+
+
+
+
+
+    </ul>
+  </div>
 </section>
+
 
 <section class="schedule mod-section js-home-section" id="schedule">
   <h1>Draft Schedule</h1>
@@ -328,4 +482,40 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
   <script src="js/truncate.js"></script>
   <script src="js/scroll.js"></script>
   <script src="js/modal.js"></script>
+  <script>
+    function flipclick(event) {
+      var flip_container = event.target.parentElement.parentElement.parentElement;
+      // alert(flip_container.className);
+      flip_container.classList.toggle('flip');
+      // document.querySelector(".flip-container").classList.toggle("flip")
+    };
+  
+    function max(x,y) {
+      if (x > y) {
+        return x;
+      } else {
+        return y;
+      }
+    };
+
+    function setHeight(el) {
+      var front = el.querySelector(".back");
+      var back =  el.querySelector(".front");
+      var fh = front.clientHeight;
+      var bh = back.clientHeight;
+      console.log(fh);
+      var h = max(fh, bh);
+      h = h + "px"
+      el.style.height = h;
+    };
+
+    window.onload = function() {
+      var containers = document.querySelectorAll(".flip-container");
+      for (var i=0; i < containers.length; i++) {
+        containers[i].addEventListener("click", flipclick, false);
+        setHeight(containers[i]);
+      }
+
+    };
+  </script>
 </body>

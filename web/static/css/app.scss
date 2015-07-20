@@ -224,7 +224,7 @@ body {
 
 body, input {
   font-size: 1.8rem;
-  font-family: "museo-sans", "helvetica neue", "helvetica", sans-serif;
+  font-family: 'Antic', 'helvetica neue', 'helvetica', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -633,6 +633,7 @@ input:focus, select:focus, textarea:focus, button:focus {
 
 .pg-home-speaker-bio a {
   color: white;
+      color: purple;
 }
 
 .pg-home-schedule-wrap {
@@ -732,16 +733,15 @@ input:focus, select:focus, textarea:focus, button:focus {
 }
 
 @font-face {
-  font-family: 'entypo-goruco';
-  src: url("/assets/fonts/entypo-goruco-8ac3eab1.eot?vor7dz");
-  src: url("/assets/fonts/entypo-goruco-8ac3eab1.eot?#iefixvor7dz") format("embedded-opentype"), url("/assets/fonts/entypo-goruco-4a77d1be.woff?vor7dz") format("woff"), url("/assets/fonts/entypo-goruco-d9e56e14.ttf?vor7dz") format("truetype"), url("/assets/fonts/entypo-goruco-25086537.svg?vor7dz#entypo-goruco") format("svg");
+  /*font-family: 'Biryani', sans-serif;*/
+  font-family: 'Antic', sans-serif;
   font-weight: normal;
   font-style: normal;
 }
 
 
 [class^="icon-"] {
-  font-family: 'entypo-goruco';
+  font-family: 'Antic', sans-serif;
   speak: none;
   font-style: normal;
   font-weight: normal;
