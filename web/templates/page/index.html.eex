@@ -151,20 +151,20 @@
         <div class="l-tile-content">
           <img alt="Lev Kravinsky" class="pg-home-speaker-img" src="images/speakers/lev.jpg">
           <a href="#lev"><h3>Lev Kravinsky</h3></a>
-          <i>github: <a href="http://github.com/kravinskylev">kravinskylev</a></i>
-          <a class="pg-home-speaker-link" href="//twitter.com/levkravinsky">@levkravinsky</a>
+          <i>github: <a href="http://github.com/levthedev">levthedev</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/levthedev">@levthedev</a>
 
           <p class="type-secondary type-small pg-home-speaker-bio">
             As a highschool dropout turned college dropout, 
-            I have a unique perspective on what it means to 
+            Lev has a unique perspective on what it means to 
             learn and succeed as a software developer. 
-            Currently a student at the Turing School of 
-            Software & Design in Denver, I spend most of 
-            my time programming in Ruby, Rails, and Javascript. 
-            Discovering esoteric features of Ruby is a passion 
-            of mine and I'm always excited to dive into Ruby source code. 
-            If your Github commit tree looks like a Christmas tree, 
-            I probably want to be your friend!
+            Currently a student at the Turing School of Software 
+            and Design in Denver, CO, Lev spends most of his time 
+            programming in Ruby, Rails, and Javascript. 
+            Discovering esoteric features of Ruby is a passion of his, 
+            and he's always excited to dive into Ruby source code. 
+            If your Github contributions graph is as green as a 
+            Christmas tree, Lev probably wants to be your friend!
           </p>
         </div>
       </li>
