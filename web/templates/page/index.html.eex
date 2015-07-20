@@ -129,10 +129,115 @@
 
   <div>
     <ul class="l-tile-wrap">
+
+
+
       <li class="l-tile-3">
         <div class="l-tile-content">
-          <img alt="Trevor Rosen and egypt" class="pg-home-speaker-img" src="images/speakers/trevor.jpg">
-          <h3>Trevor Rosen and egypt</h3>
+          <img alt="Brandon Hays" class="pg-home-speaker-img" src="images/speakers/brandon.jpg">
+          <a href="#brandon"><h3>Brandon Hays</h3></a>
+          <i>github: <a href="http://github.com/tehviking">tehviking</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/tehviking">@tehviking</a>
+
+          <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
+            Brandon used to get lunch for people for a living, but it's now just a hobby. 
+            Hailing from Austin, TX, he helps run The Frontside, an Ember.js and Rails consultancy. 
+            Brandon's lifelong mission to to hug every developer.
+          </p>
+        </div>
+      </li>
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Lev Kravinsky" class="pg-home-speaker-img" src="images/speakers/lev.jpg">
+          <a href="#lev"><h3>Lev Kravinsky</h3></a>
+          <i>github: <a href="http://github.com/kravinskylev">kravinskylev</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/levkravinsky">@levkravinsky</a>
+
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            As a highschool dropout turned college dropout, 
+            I have a unique perspective on what it means to 
+            learn and succeed as a software developer. 
+            Currently a student at the Turing School of 
+            Software & Design in Denver, I spend most of 
+            my time programming in Ruby, Rails, and Javascript. 
+            Discovering esoteric features of Ruby is a passion 
+            of mine and I'm always excited to dive into Ruby source code. 
+            If your Github commit tree looks like a Christmas tree, 
+            I probably want to be your friend!
+          </p>
+        </div>
+      </li>
+
+
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Tom Brown" class="pg-home-speaker-img" src="images/speakers/tom.jpg">
+          <a href="#tom"><h3>Tom Brown</h3></a>
+          <i>github: <a href="http://github.com/herestomwiththeweather">herestomwiththeweather</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/tomwiththeweath">@tomwiththeweath</a>
+
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            Tom Brown develops user-centric identity software with Ruby, 
+            contributes to the opentransact protocol and participates at 
+            the Internet Identity Workshop. Tom has contributed code for 
+            federated and delegated identity to several open source projects 
+            as herestomwiththeweather on github. Prior, Tom developed network 
+            and security code for companies including VXtreme, Microsoft, Yodlee, 
+            WholeSecurity and BiometricAccess. 
+          </p>
+        </div>
+      </li>
+
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Kyle Rames" class="pg-home-speaker-img" src="images/speakers/kyle.png">
+          <a href="#kyle"><h3>Kyle Rames</h3></a>
+          <i>github: <a href="http://github.com/<github>">githubname</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            Kyle Rames is a senior developer for ShopKeep where he 
+            works in Ruby and Golang. In this role, he helps maintain 
+            their existing Rails backend and is helping to launch 
+            their next generation platform. Prior to coming to ShopKeep, 
+            he spent five years at Rackspace. He is a top committer 
+            to the fog gem and has previously maintained vagrant-rackspace 
+            and knife-rackspace.
+          </p>
+        </div>
+      </li>
+
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Randy Coulman<name>" class="pg-home-speaker-img" src="images/speakers/randy.jpg">
+          <a href="#randy"><h3>Randy Coulman</h3></a>
+          <i>github: <a href="http://github.com/<github>">githubname</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            Randy Coulman is a Senior Software Engineer at Zeal (@CodingZeal), 
+            an agile web development consultancy in Oregon. 
+            He's been developing software for nearly 25 years, 
+            mainly in Ruby, Smalltalk, Javascript, Swift, and C++. 
+            He writes about software on his Courageous Software 
+            blog at <a href="http://randycoulman.com/blog/">randycoulman.com/blog/</a>.
+          </p>
+        </div>
+      </li>
+
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Trevor Rosen" class="pg-home-speaker-img" src="images/speakers/trevor.jpg">
+          <a href="#trevor"><h3>Trevor Rosen</h3></a>
           <i>github: <a href="http://github.com/trevrosen">trevrosen</a></i>
           <a class="pg-home-speaker-link" href="//twitter.com/trevrosen">@trevrosen</a>
           <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
@@ -146,7 +251,7 @@
       <li class="l-tile-3">
         <div class="l-tile-content">
           <img alt="name" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
-          <h3>egypt</h3>
+          <a href="#trevor"><h3>egypt</h3></a>
           <!-- <i>github: <a href="http://github.com/gitname">gitname</a></i> -->
           <!-- <a class="pg-home-speaker-link" href="//twitter.com/twame">@twame</a> -->
           <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="200">
@@ -160,63 +265,16 @@
 
       <li class="l-tile-3">
         <div class="l-tile-content">
-          <img alt="Brandon Hays" class="pg-home-speaker-img" src="images/speakers/brandon.jpg">
-          <h3>Brandon Hays</h3>
-          <i>github: <a href="http://github.com/tehviking">tehviking</a></i>
-          <a class="pg-home-speaker-link" href="//twitter.com/tehviking">@tehviking</a>
-
-          <div class="vertical flip-container">
-            <div class="flipper">
-              <div class="front">
-                <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
-                  Brandon used to get lunch for people for a living, but it's now just a hobby. 
-                  Hailing from Austin, TX, he helps run The Frontside, an Ember.js and Rails consultancy. 
-                  Brandon's lifelong mission to to hug every developer.
-                </p>
-              </div>
-              <div class="back"> <!-- description -->
-                <h4>Surviving the Framework Hype Cycle</h4>
-                <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="400">
-                  Devs stymied by paradox of choice in JS frameworks, etc.  
-                  Baskin Robbins wishes it had as many flavors as there are JS frameworks, build tools, 
-                  and cool new "low-level" languages. You just want to solve a problem, 
-                  not have a 500-framework bake-off! 
-                  And how will you know whether you picked the right one? Don't flip that table, 
-                  because we'll use the "hype cycle" and the history of Ruby and Rails as a 
-                  guide to help you understand which front-end and back-end technologies 
-                  are a fit for your needs now and in the future.
-                </p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </li>
-
-
-      <li class="l-tile-3">
-        <div class="l-tile-content">
-          <img alt="<name>" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
-          <h3><name></h3>
+          <img alt="Chris McCord" class="pg-home-speaker-img" src="images/speakers/chris.jpg">
+          <a href="#chris"><h3>Chris McCord</h3></a>
           <i>github: <a href="http://github.com/<github>">githubname</a></i>
           <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
 
-          <div class="vertical flip-container">
-            &nbsp;
-            <div class="flipper">
-              <div class="front">
-                <p class="type-secondary type-small pg-home-speaker-bio">
-                  bio
-                </p>
-              </div>
-              <div class="back"> <!-- description -->
-                <h4>talk title</h4>
-                <p class="type-secondary type-small pg-home-speaker-bio ">
-                  description
-                </p>
-              </div>
-            </div>
-          </div>
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            Chris McCord is the creator of the Phoenix Framework and author of Metaprogramming Elixir. Chris has been an invited speaker on the Phoenix Framework at Erlang Factory 2014, ElixirConf 2014, ElixirConf Europe 2015, and NDC Oslo 2015. In addition, he has conducted Elixir workshops at RailsConf 2014 and CodeMash 2014.
+            <br><br>
+            Chris spends his days crafting web applications and teaching others the tools of the trade. He loves community outreach and helping to grow Elixir’s wonderful community.
+          </p>
         </div>
       </li>
 
@@ -224,55 +282,57 @@
 
       <li class="l-tile-3">
         <div class="l-tile-content">
-          <img alt="<name>" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
-          <h3><name></h3>
-          <i>github: <a href="http://github.com/<github>">githubname</a></i>
-          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+          <img alt="Barrett Clark" class="pg-home-speaker-img" src="images/speakers/barrett.jpg">
+          <a href="#barrett"><h3>Barrett Clark</h3></a>
+          <i>github: <a href="http://github.com/barrettclark">barrettclark</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/barrettclark">@barrettclark</a>
 
-          <div class="vertical flip-container">
-            <div class="flipper">
-              <div class="front">
-                <p class="type-secondary type-small pg-home-speaker-bio">
-                  bio
-                </p>
-              </div>
-              <div class="back"> <!-- description -->
-                <h4>talk title</h4>
-                <p class="type-secondary type-small pg-home-speaker-bio ">
-                  description
-                </p>
-              </div>
-            </div>
-          </div>
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            I am a Rubyist turned polyglot. I currently work at Sabre Labs, 
+            where we experiment with the intersection of emerging and current 
+            technologies. I don't always write code in Ruby, but when I do I 
+            prefer to write backend servers and services.
+          </p>
         </div>
       </li>
+
 
 
       <li class="l-tile-3">
         <div class="l-tile-content">
-          <img alt="<name>" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
-          <h3><name></h3>
-          <i>github: <a href="http://github.com/<github>">githubname</a></i>
-          <a class="pg-home-speaker-link" href="//twitter.com/<twitter>">@twitter</a>
+          <img alt="Paul Stefan Ort" class="pg-home-speaker-img" src="images/speakers/paul.jpg">
+          <a href="#paul"><h3>Paul Stefan Ort</h3></a>
+          <i>github: <a href="http://github.com/paulstefanort">paulstefanort</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/PaulStefanOrt">@PaulStefanOrt</a>
 
-          <div class="vertical flip-container">
-            <div class="flipper">
-              <div class="front">
-                <p class="type-secondary type-small pg-home-speaker-bio">
-                  bio
-                </p>
-              </div>
-              <div class="back"> <!-- description -->
-                <h4>talk title</h4>
-                <p class="type-secondary type-small pg-home-speaker-bio ">
-                  description
-                </p>
-              </div>
-            </div>
-          </div>
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            Software engineer. Classical musician. Lifelong learner. 
+            Developer at Cyrus Innovation in NYC.
+          </p>
         </div>
       </li>
 
+
+
+      <li class="l-tile-3">
+        <div class="l-tile-content">
+          <img alt="Abraham Sangha" class="pg-home-speaker-img" src="images/speakers/abraham.jpg">
+          <a href="#abraham"><h3>Abraham Sangha</h3></a>
+          <i>github: <a href="http://github.com/https://github.com/abrahamsangha">abrahamsangha</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/abrahamsangha">@abrahamsangha</a>
+
+          <p class="type-secondary type-small pg-home-speaker-bio">
+            Abraham's first taste of programming was writing violent 
+            choose-your-own-adventure games in TI-BASIC on his graphing 
+            calculator instead of paying attention during algebra class. 
+            A former civil engineer and minister, he learned web development 
+            through Dev Bootcamp Chicago and is currently solving problems 
+            in advertising technology as a software engineer at Centro. 
+            He studied the virtuous life in graduate school but has still 
+            failed to obtain it.
+          </p>
+        </div>
+      </li>
 
 
 
@@ -284,34 +344,33 @@
 
 
 <section class="schedule mod-section js-home-section" id="schedule">
-  <h1>Draft Schedule</h1>
-  <p>Below is a draft of the schedule. Details will be completed as soon as speaker selections are made.</p>
+  <h1>Schedule</h1>
   <div class="pg-home-schedule-wrap">
     <ul>
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">8:30AM</div>
+        <div class="pg-home-schedule-time">8:00AM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top"><span>Breakfast / Registration</span></h3>
+          <h3 class="no-mar-top"><span>Doors Open: Registration and Breakfast</span></h3>
         </div>
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">9:00AM</div>
+        <div class="pg-home-schedule-time">8:50AM</div>
         <div class="pg-home-schedule-info">
           <h3 class="no-mar-top"><span>Welcome</span></h3>
         </div>
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXAM</div>
-        <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Saron Yitbarek</span></h3>
-          <p></p>
-        </div>
-      </li>
+        <div class="pg-home-schedule-time">9:00AM</div>
+      <div class="pg-home-schedule-info">
+        <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Saron Yitbarek</span></h3>
+        <p></p>
+      </div>
+    </li>
 
-      <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXAM</div>
+    <li class="pg-home-schedule-item">
+        <div class="pg-home-schedule-time">9:35AM</div>
         <div class="pg-home-schedule-info">
           <h3 class="no-mar-top"><span>Break</span></h3>
           <p></p>
@@ -319,7 +378,7 @@
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXAM</div>
+        <div class="pg-home-schedule-time">9:45AM</div>
         <div class="pg-home-schedule-info">
           <h3 class="no-mar-top"><span>Keynote</span> <span>-</span> <span>Dave Thomas</span></h3>
           <p></p>
@@ -327,7 +386,7 @@
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXAM</div>
+        <div class="pg-home-schedule-time">10:20AM</div>
         <div class="pg-home-schedule-info">
           <h3 class="no-mar-top"><span>Break</span></h3>
           <p></p>
@@ -335,15 +394,57 @@
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXAM</div>
+        <a name="brandon"></a>
+        <div class="pg-home-schedule-time">10:40AM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top"><span>Speaker</span></h3>
+          <h3 class="no-mar-top">Brandon Hays 
+            <span class="type-title">Surviving the Framework Hype Cycle</span>
+          </h3>
           <p></p>
         </div>
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXPM</div>
+        <div class="pg-home-schedule-time">11:15AM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top"><span>Break</span></h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <a name="lev"></a>
+        <div class="pg-home-schedule-time">11:30AM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Lev  Kravinsky
+            <span class="type-title">Fiber, Fibonacci, and Fibs</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+      <li class="pg-home-schedule-item">
+        <a name="tom"></a>
+        <div class="pg-home-schedule-time">11:40AM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Tom  Brown
+            <span class="type-title">Authentication for Websockets</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+      <li class="pg-home-schedule-item">
+        <a name="kyle"></a>
+        <div class="pg-home-schedule-time">11:50AM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Kyle Rames
+            <span class="type-title">My Year In Open Source : 10 Lessons in 10 Minutes</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <div class="pg-home-schedule-time">12:00PM</div>
         <div class="pg-home-schedule-info">
           <h3 class="no-mar-top"><span>Lunch</span></h3>
           <p></p>
@@ -351,12 +452,101 @@
       </li>
 
       <li class="pg-home-schedule-item">
-        <div class="pg-home-schedule-time">X:XXPM</div>
+        <a name="randy"></a>
+        <div class="pg-home-schedule-time">1:30PM</div>
         <div class="pg-home-schedule-info">
-          <h3 class="no-mar-top"><span>Speakers and Breaks</span></h3>
+          <h3 class="no-mar-top">Randy  Coulman 
+            <span class="type-title">Shall We Play A Game?</span>
+          </h3>
           <p></p>
         </div>
       </li>
+
+      <li class="pg-home-schedule-item">
+        <div class="pg-home-schedule-time">2:05PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top"><span>Break</span></h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <a name="trevor"></a>
+        <div class="pg-home-schedule-time">2:30PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Trevor Rosen and egypt
+          <span class="type-title">Building a binary protocol client in Ruby: A magical journey!</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <div class="pg-home-schedule-time">3:05PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top"><span>Break</span></h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <a name="chris"></a>
+        <div class="pg-home-schedule-time">3:15PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Chris McCord
+          <span class="type-title">Phoenix: What You Should Know</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <div class="pg-home-schedule-time">3:50PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top"><span>Break</span></h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <a name="barrett"></a>
+        <div class="pg-home-schedule-time">4:05PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Barrett  Clark
+          <span class="type-title">Brisket Programming</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+      <li class="pg-home-schedule-item">
+        <a name="paul"></a>
+        <div class="pg-home-schedule-time">4:15PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Paul Stefan Ort 
+          <span class="type-title">Crashing on Autopilot</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+      <li class="pg-home-schedule-item">
+        <a name="abraham"></a>
+        <div class="pg-home-schedule-time">4:30PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top">Abraham Sangha
+          <span class="type-title">TDD for Your Soul: Virtue and Web Development</span>
+          </h3>
+          <p></p>
+        </div>
+      </li>
+
+      <li class="pg-home-schedule-item">
+        <div class="pg-home-schedule-time">4:40PM</div>
+        <div class="pg-home-schedule-info">
+          <h3 class="no-mar-top"><span>Break</span></h3>
+          <p></p>
+        </div>
+      </li>
+
 
       <li class="pg-home-schedule-item">
         <div class="pg-home-schedule-time">5:00PM</div>
@@ -379,6 +569,9 @@
           <h3 class="no-mar-top"><span>Afterparty</span></h3>
         </div>
       </li>
+
+
+
 
     </ul>
   </div>
