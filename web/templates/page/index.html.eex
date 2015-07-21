@@ -253,8 +253,8 @@
         <div class="l-tile-content">
           <img alt="name" class="pg-home-speaker-img" src="images/speakers/placeholder-headshot.jpg">
           <a href="#trevor"><h3>egypt</h3></a>
-          <!-- <i>github: <a href="http://github.com/gitname">gitname</a></i> -->
-          <!-- <a class="pg-home-speaker-link" href="//twitter.com/twame">@twame</a> -->
+          <i>github: <a href="http://github.com/egypt">egypt</a></i>
+          <a class="pg-home-speaker-link" href="//twitter.com/egyp7">@egyp7</a>
           <p class="type-secondary type-small pg-home-speaker-bio js-truncate" data-truncate="200">
           James "egypt" Lee is a prolific Metasploit developer, pentester, and trainer of hackers. 
           He serves as the Metasploit Community Manager at Rapid7, where he herds cats, leads research efforts, 
