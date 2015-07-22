@@ -49,10 +49,8 @@
 
 <section class="mod-section s4-pad-top pos-clearfix js-home-section" id="promo">
 <div class="video">
-  <video controls="true" width="100%" height="100%" controls>
-    <source src="images/LoneStarRuby-promo2.mp4" type="video/mp4">
-    <!-- <a href="images/LoneStarRuby-promo2.mp4">LoneStarRuby Video</a> -->
-  </video>
+  <iframe src="https://player.vimeo.com/video/134203590" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <p>Highlights from LoneStarRuby.</p>
 </div>
 
 </section>
