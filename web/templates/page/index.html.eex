@@ -5,7 +5,7 @@
     <nav class="g-header-nav">
       <ul>
         <!-- <li><a href="/documents/sponsor-prospectus-2015.pdf" target="_blank">Sponsor Prospectus</a></li> -->
-        &nbsp;
+        <li></li>
       </ul>
     </nav>
   </header>
@@ -22,7 +22,7 @@
     </span></h1>
   <h2 class="type-weight-normal">August 15th, Austin, TX</h2>
 </header>
-<p class="type-secondary s4">LoneStarRuby is a one-day Ruby & Rails conference that will truly inspire you.</p>
+<p class="type-secondary s4">LoneStarRuby is a one-day Ruby &amp; Rails conference that will truly inspire you.</p>
 <!-- <a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_cfp_2015">Submit a Talk</a> -->
 &nbsp;
 <a class="ui-btn-round" href="https://relyworks.formstack.com/forms/lonestarruby_payment">Register Now</a>
@@ -63,20 +63,19 @@
 <!-- <a href="/news">Read More</a> -->
 </div> 
 <div class="pg-home-news-right">
-<!-- <h3><a href="#">Registration</a></h3>  -->
   <h3>REGISTRATION</h3>
-    <a href="https://relyworks.formstack.com/forms/lonestarruby_payment""><p class="wow">REGISTRATION IS NOW OPEN!</p></a>
-    <table class="price">
-      <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
-      <tr class="gone"><td>$150</td><td>Early Bird</td><td><strike>July 10</strike> July 14</td></tr>
-      <tr><td>$199</td><td>Standard</td><td>August 9</td></tr>
-      <tr><td>$249</td><td>Late</td></tr>
-    </table>
+  <a href="https://relyworks.formstack.com/forms/lonestarruby_payment"><p class="wow">REGISTRATION IS NOW OPEN!</p></a>
+  <table class="price">
+    <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
+    <tr class="gone"><td>$150</td><td>Early Bird</td><td><strike>July 10</strike> July 14</td></tr>
+    <tr><td>$199</td><td>Standard</td><td>August 9</td></tr>
+    <tr><td>$249</td><td>Late</td></tr>
+  </table>
 </div>
 </section>
 
-<a name="speakers" id="speakers"></a>
-<section class="past-speakers mod-section js-home-section" id="keynotes">
+<a name="keynotes" id="keynotes"></a>
+<section class="past-speakers mod-section js-home-section" id="keynotesspeakers">
   <h1>Keynote Speakers</h1>
   <div>
     <ul class="l-tile-wrap">
@@ -726,6 +725,8 @@ Our conference is dedicated to providing a family friendly and harassment-free c
 </section>
 
 </div>
+
+
 <div class="color-bg-white on-light">
 <div class="container">
 
@@ -750,42 +751,44 @@ Our conference is dedicated to providing a family friendly and harassment-free c
   </ul>
 
 
-<h2>Become A Sponsor</h2>
-<p class="text">Sponsoring LoneStarRuby is a great way to connect with the Ruby
-community and show your support. We have openings for sponsorship of
-this year's conference at all levels. Get in touch with us, we'd
-love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com</a></p>
+  <h2>Become A Sponsor</h2>
+  <p class="text">Sponsoring LoneStarRuby is a great way to connect with the Ruby
+  community and show your support. We have openings for sponsorship of
+  this year's conference at all levels. Get in touch with us, we'd
+  love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com</a></p>
+
 </section>
 </div>
 </div>
+
+
 <div class="container">
 
 <section class="updates mod-section js-home-section" id="updates">
   <h1>Updates</h1>
 
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
+  <!-- Begin MailChimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
   /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
      #mc_embed_signup input.button { background-color: #ee2424; }
-</style>
-<div id="mc_embed_signup">
-<form action="//lonestarruby.us8.list-manage.com/subscribe/post?u=5c44f4ebacf7d77245471f86d&amp;id=278bbcc3f1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL">Get Updates to LoneStarRuby 2015</label>
-  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5c44f4ebacf7d77245471f86d_278bbcc3f1" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Send Me Updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
+  </style>
+  <div id="mc_embed_signup">
+    <form action="//lonestarruby.us8.list-manage.com/subscribe/post?u=5c44f4ebacf7d77245471f86d&amp;id=278bbcc3f1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+        <label for="mce-EMAIL">Get Updates to LoneStarRuby 2015</label>
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;"><input type="text" name="b_5c44f4ebacf7d77245471f86d_278bbcc3f1" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Send Me Updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+    </form>
+  </div>
 
 <!--End mc_embed_signup-->
 
-  </div>
 
 </section>
 
