@@ -769,16 +769,17 @@ Our conference is dedicated to providing a family friendly and harassment-free c
     </li>
 
     <li class="js-modal-trigger bronze">
-      <img width="15px" alt="Big Red" onerror="this.style.display='none'" src="images/sponsors/bigred.png">
+      <img width="20px" alt="Big Red" onerror="this.style.display='none'" src="images/sponsors/xyience-can.jpg">
       <div class="js-modal js-modal-close m-modal">
         <div class="js-modal-content m-modal-content">
           <div class="m-modal-img-wrap">
-            <img alt="Big Red" onerror="this.style.display='none'" src="images/sponsors/bigred.png">
+            <img alt="Big Red" onerror="this.style.display='none'" src="images/sponsors/xyience-can.jpg">
           </div>
           <a href="http://bigred.com/">BigRed.com</a>
+          <p class="type-small"> Deliciously Different!  </p>
+          <a href="http://www.xyience.com">Xyience.com</a>
           <p class="type-small">
-          Deliciously Different!
-          </p>
+          Xyience - Power to Win<br>Sugar Free. Zero calorie. Vitamin Enhanced.</p>
         </div>
       </div>
     </li>
