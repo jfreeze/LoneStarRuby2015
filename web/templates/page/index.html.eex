@@ -731,6 +731,25 @@ Our conference is dedicated to providing a family friendly and harassment-free c
 
 <section class="mod-section sponsor js-home-section" id="sponsors">
   <h1>Sponsors</h1>
+  <ul class="pos-clearfix pg-home-sponsors">
+    <li class="js-modal-trigger bronze">
+      <img alt="Stitch Fix" onerror="this.style.display='none'" src="images/sponsors/stitchfix_logo-01_1000w.png">
+      <div class="js-modal js-modal-close m-modal">
+        <div class="js-modal-content m-modal-content">
+          <div class="m-modal-img-wrap">
+            <img alt="Stitch Fix" onerror="this.style.display='none'" src="images/sponsors/stitchfix_logo-01_1000w.png">
+          </div>
+          <a href="http://multithreaded.stitchfix.com/">multithreaded.stitchfix.com</a>
+          <p class="type-small">
+          Stitch Fix is an online personal styling service reinventing the retail industry with innovative technology. We’re a Ruby-centric startup creating unique solutions in data-driven merchandising, massively-scaled personal styling, and complex logistics. We value lightweight planning, continuous deployment, and minimal technical debt. Join our first-class engineering team to make it happen!
+          http://multithreaded.stitchfix.com/.
+          </p>
+        </div>
+      </div>
+    </li>
+  </ul>
+
+
 <h2>Become A Sponsor</h2>
 <p class="text">Sponsoring LoneStarRuby is a great way to connect with the Ruby
 community and show your support. We have openings for sponsorship of
@@ -785,6 +804,8 @@ love to speak with you! <a href="mailto:jimfreeze@gmail.com">jimfreeze@gmail.com
 </div>
 <div class="clearfix"></div>
   <script src="js/app.js"></script>
+  <script src="js/scroll.js"></script>
+  <script src="js/modal.js"></script>
   <script>
     function flipclick(event) {
       var flip_container = event.target.parentElement.parentElement.parentElement;

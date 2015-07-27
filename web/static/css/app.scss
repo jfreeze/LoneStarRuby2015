@@ -619,6 +619,9 @@ input:focus, select:focus, textarea:focus, button:focus {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+.m-modal.active {
+  display: block; }
+
 .m-modal-content {
   padding: 4rem;
   padding-top: 2rem;
@@ -2436,6 +2439,17 @@ section {
   .container {
     max-width: 825px;
   }
+  .m-modal-content {
+    width: 50rem;
+    height: 55rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -25rem;
+    margin-top: -25rem; } 
+  .m-modal-img-wrap {
+    padding-bottom: 2rem;
+    height: 20rem; }
 }
 
 @media only screen and (min-width: 825px) {
