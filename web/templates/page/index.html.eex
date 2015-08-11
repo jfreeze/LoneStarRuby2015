@@ -68,7 +68,7 @@
   <table class="price">
     <tr><th>Price</th><th>Level</th><th>Ending Date</th></tr>
     <tr class="gone"><td>$150</td><td>Early Bird</td><td><strike>July 10</strike> July 14</td></tr>
-    <tr><td>$199</td><td>Standard</td><td><strike>August 9</strike> August 10 - midnight</td></tr>
+    <tr class="gone"><td>$199</td><td>Standard</td><td><strike>August 9</strike> August 10 - midnight</td></tr>
     <tr><td>$249</td><td>Late</td></tr>
   </table>
 </div>
