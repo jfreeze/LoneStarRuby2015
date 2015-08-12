@@ -735,6 +735,21 @@ Our conference is dedicated to providing a family friendly and harassment-free c
   <ul class="pos-clearfix pg-home-sponsors">
 
 
+    <li class="js-modal-trigger silver">
+      <img alt="Sharethrough" onerror="this.style.display='none'" src="images/sponsors/logo-sharethrough-vertical-mentha.png">
+      <div class="js-modal js-modal-close m-modal">
+        <div class="js-modal-content m-modal-content">
+          <div class="m-modal-img-wrap">
+            <img alt="Sharethrough" onerror="this.style.display='none'" src="images/sponsors/logo-sharethrough-vertical-mentha.png">
+          </div>
+          <a href="http://www.sharethrough.com/">SHARETHROUGH</a>
+          <p class="type-small">
+          Deliver Better Ads.  Our native advertising software is helping the Internet evolve beyond interruptive ads.
+          </p>
+        </div>
+      </div>
+    </li>
+
     <li class="js-modal-trigger bronze">
       <img alt="Stitch Fix" onerror="this.style.display='none'" src="images/sponsors/stitchfix_logo-01_1000w.png">
       <div class="js-modal js-modal-close m-modal">
@@ -752,28 +767,13 @@ Our conference is dedicated to providing a family friendly and harassment-free c
     </li>
 
     <li class="js-modal-trigger bronze">
-      <img alt="Sharethrough" onerror="this.style.display='none'" src="images/sponsors/logo-sharethrough-vertical-mentha.png">
-      <div class="js-modal js-modal-close m-modal">
-        <div class="js-modal-content m-modal-content">
-          <div class="m-modal-img-wrap">
-            <img alt="Sharethrough" onerror="this.style.display='none'" src="images/sponsors/logo-sharethrough-vertical-mentha.png">
-          </div>
-          <a href="http://www.sharethrough.com/">SHARETHROUGH</a>
-          <p class="type-small">
-          Deliver Better Ads.  Our native advertising software is helping the Internet evolve beyond interruptive ads.
-          </p>
-        </div>
-      </div>
-    </li>
-
-    <li class="js-modal-trigger bronze">
       <img alt="Vulk" onerror="this.style.display='none'" src="images/sponsors/logo (horizontal)@2x.png">
       <div class="js-modal js-modal-close m-modal">
         <div class="js-modal-content m-modal-content">
           <div class="m-modal-img-wrap">
             <img alt="Vulk" onerror="this.style.display='none'" src="images/sponsors/logo (horizontal)@2x.png">
           </div>
-          <a href="http://http://vulk.co/">Vulk</a>
+          <a href="http://vulk.co/">Vulk</a>
           <p class="type-small">
           We are an Austin based co-op of UX, DevOps, and WebApp professionals dedicated to honesty, quality, openness and diversity in our organization. First we make it work. Then we make it beautiful.  Then we make it fast.  Supporting LSR since 2007.
           </p>
